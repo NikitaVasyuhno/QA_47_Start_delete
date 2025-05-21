@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public class FirstTest {
+import org.testng.annotations.Test;
+
+public class FirstTest {
+    @Test
+    public void firstTest()
+    {
+
+    }
 }
