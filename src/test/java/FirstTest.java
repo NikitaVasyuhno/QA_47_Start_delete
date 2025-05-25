@@ -6,4 +6,10 @@ public class FirstTest {
     {
 
     }
+    @Test
+    public void secondTest()
+    {
+        System.out.println("its second test");
+    }
+
 }
